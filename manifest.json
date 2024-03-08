@@ -1,6 +1,6 @@
 {
-    "name": "sitoflutter",
-    "short_name": "sitoflutter",
+    "name": "magazzino",
+    "short_name": "magazzino",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
