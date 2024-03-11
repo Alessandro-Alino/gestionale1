@@ -87118,7 +87118,6 @@ while(true)switch(s){case 0:l=p.Ed("PUT",a)
 A.asM()
 o=A.acw("POST",A.e3(l))
 n=o.r
-n.n(0,"access-control-allow-origin","https://alessandro-alino.github.io/gestionale1/")
 n.n(0,"content-type","application/json; charset=utf-8")
 n.n(0,"cache-control","no-cache")
 o.syX(0,B.bn.lg(b))
@@ -87203,7 +87202,7 @@ h=o
 l=A.a6(h)
 i=n.c
 j=i.f
-j=i.zg(i.b,B.c.P("Errore: "+A.i(l),0,20),!1,j,B.c3)
+j=i.zg(i.b,B.c.P("Errore: "+A.i(l),0,30),!1,j,B.c3)
 if(!b.d)b.a.$1(j)
 s=6
 break
@@ -87244,7 +87243,7 @@ a=o
 k=A.a6(a)
 f=n.c
 d=f.f
-d=f.zg(f.b,B.c.P("Errore: "+A.i(k),0,20),!1,d,B.c3)
+d=f.zg(f.b,B.c.P("Errore: "+A.i(k),0,30),!1,d,B.c3)
 if(!a1.d)h.$1(d)
 s=10
 break
@@ -87285,7 +87284,7 @@ break
 case 3:q=2
 k=p
 n=A.a6(k)
-l=o.c.q4(B.c.P("Errore: "+A.i(n),0,20),B.c3)
+l=o.c.q4(B.c.P("Errore: "+A.i(n),0,30),B.c3)
 if(!b.d)b.a.$1(l)
 s=5
 break
@@ -87308,7 +87307,7 @@ break
 case 3:q=2
 k=p
 n=A.a6(k)
-l=o.c.q4(B.c.P("Errore: "+A.i(n),0,20),B.c3)
+l=o.c.q4(B.c.P("Errore: "+A.i(n),0,30),B.c3)
 if(!b.d)b.a.$1(l)
 s=5
 break
@@ -87331,7 +87330,7 @@ break
 case 3:q=2
 k=p
 n=A.a6(k)
-l=o.c.q4(B.c.P("Errore: "+A.i(n),0,20),B.c3)
+l=o.c.q4(B.c.P("Errore: "+A.i(n),0,30),B.c3)
 if(!b.d)b.a.$1(l)
 s=5
 break
@@ -87623,7 +87622,7 @@ l=A.a6(g)
 h=n.c
 j=h.f
 i=h.b
-i=h.H3(B.c.P("Errore: "+A.i(l),0,20),!1,j,i,B.eA)
+i=h.H3(B.c.P("Errore: "+A.i(l),0,30),!1,j,i,B.eA)
 if(!b.d)b.a.$1(i)
 s=6
 break
@@ -87664,7 +87663,7 @@ k=A.a6(a)
 f=n.c
 d=f.f
 c=f.b
-c=f.H3(B.c.P("Errore: "+A.i(k),0,20),!1,d,c,B.eA)
+c=f.H3(B.c.P("Errore: "+A.i(k),0,30),!1,d,c,B.eA)
 if(!a1.d)h.$1(c)
 s=10
 break
@@ -87708,7 +87707,7 @@ break
 case 3:q=2
 k=p
 n=A.a6(k)
-l=o.c.q4(B.c.P("Errore: "+A.i(n),0,20),B.eA)
+l=o.c.q4(B.c.P("Errore: "+A.i(n),0,30),B.eA)
 if(!b.d)b.a.$1(l)
 s=5
 break
