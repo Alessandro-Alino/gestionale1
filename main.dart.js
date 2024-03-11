@@ -87120,9 +87120,7 @@ var $async$ov=A.J(function(c,d){if(c===1)return A.K(d,r)
 while(true)switch(s){case 0:l=p.Ed("PUT",a)
 A.asO()
 o=A.acy("POST",A.e3(l))
-n=o.r
-n.n(0,"content-type","application/json; charset=utf-8")
-n.n(0,"cache-control","no-cache")
+o.r.n(0,"content-type","application/json; charset=utf-8")
 o.syX(0,B.bn.lg(b))
 k=B.bn
 s=3
@@ -87143,9 +87141,7 @@ var $async$uz=A.J(function(b,c){if(b===1)return A.K(c,r)
 while(true)switch(s){case 0:l=p.Ed("DELETE",a)
 A.asO()
 o=A.acy("DELETE",A.e3(l))
-n=o.r
-n.n(0,"content-type","application/json; charset=utf-8")
-n.n(0,"cache-control","no-cache")
+o.r.n(0,"content-type","application/json; charset=utf-8")
 n=t.N
 o.syX(0,B.bn.lg(A.aD(["force",!0],n,t.y)))
 k=B.bn
